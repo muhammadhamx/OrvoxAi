@@ -11,27 +11,27 @@ export declare class TeamsService {
     getGroupById(id: string): Promise<any>;
     createGroup(dto: CreateTeamGroupDto): Promise<{
         id: string;
-        title: string;
-        description: string;
-        order: number;
         createdAt: Date;
         updatedAt: Date;
+        order: number;
+        title: string;
+        description: string;
     }>;
     updateGroup(id: string, dto: UpdateTeamGroupDto): Promise<{
         id: string;
-        title: string;
-        description: string;
-        order: number;
         createdAt: Date;
         updatedAt: Date;
+        order: number;
+        title: string;
+        description: string;
     }>;
     deleteGroup(id: string): Promise<{
         id: string;
-        title: string;
-        description: string;
-        order: number;
         createdAt: Date;
         updatedAt: Date;
+        order: number;
+        title: string;
+        description: string;
     }>;
     getAllMembers(): Promise<any[]>;
     getMemberBySlug(slug: string): Promise<any>;
@@ -39,17 +39,17 @@ export declare class TeamsService {
     updateMember(id: string, dto: UpdateTeamMemberDto): Promise<any>;
     deleteMember(id: string): Promise<{
         id: string;
+        name: string;
         createdAt: Date;
         updatedAt: Date;
-        name: string;
+        icon: string;
+        linkedin: string | null;
         role: string;
         slug: string;
         image: string;
         bio: string;
         skills: string;
-        icon: string;
         color: string;
-        linkedin: string | null;
         twitter: string | null;
         github: string | null;
         groupId: string;
