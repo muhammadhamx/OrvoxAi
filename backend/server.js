@@ -6,5 +6,5 @@ process.env.NODE_ENV = process.env.NODE_ENV || 'production';
 process.env.PORT = process.env.PORT || '3001';
 
 // Start the compiled NestJS application
-require('./dist/main.js');
+require('./dist/src/main.js');
 
