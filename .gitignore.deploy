@@ -1,0 +1,36 @@
+# Minimal gitignore for production-deploy branch
+# This allows built files to be committed
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode
+.idea
+
+# Environment files (we'll handle these separately)
+.env.local
+.env*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+/coverage
+
+# Allow these (normally ignored):
+# /.next/
+# /backend/dist/
+# /backend/node_modules/.prisma/
+# /backend/node_modules/@prisma/
+
+# Large node_modules except Prisma client
+# We'll add specific paths manually
+
+
