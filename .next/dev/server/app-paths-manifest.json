@@ -1,0 +1,12 @@
+{
+  "/about-us/page": "app/about-us/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/contact-us/page": "app/contact-us/page.js",
+  "/key-projects/page": "app/key-projects/page.js",
+  "/page": "app/page.js",
+  "/portfolio/[slug]/page": "app/portfolio/[slug]/page.js",
+  "/portfolio/page": "app/portfolio/page.js",
+  "/pricing/page": "app/pricing/page.js",
+  "/services/page": "app/services/page.js",
+  "/testimonials/page": "app/testimonials/page.js"
+}

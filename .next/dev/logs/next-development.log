@@ -1,0 +1,1428 @@
+[00:00:01.660] Server  LOG     ✓ Ready in 1202ms
+[00:00:06.805] Server  WARN    ⚠ Cross origin request detected from 192.168.1.85 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:00:06.869] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:07.226] Browser WARN    Invalid scope
+[00:00:07.227] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:00:07.227] Browser WARN    Invalid scope
+[00:00:07.227] Browser WARN    GSAP target  not found. https://gsap.com
+[00:00:07.227] Browser ERROR   Failed to fetch /api/teams/groups: {}
+[00:00:07.227] Browser ERROR   Failed to fetch team groups: {}
+[00:00:25.138] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:25.357] Browser WARN    Invalid scope
+[00:00:25.357] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:00:25.357] Browser WARN    Invalid scope
+[00:00:25.357] Browser WARN    GSAP target  not found. https://gsap.com
+[00:00:25.494] Browser ERROR   Failed to fetch /api/teams/groups: {}
+[00:00:25.494] Browser ERROR   Failed to fetch team groups: {}
+[00:01:28.480] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:06.550] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:06.844] Browser WARN    Invalid scope
+[00:02:06.844] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:02:06.845] Browser WARN    Invalid scope
+[00:02:06.845] Browser WARN    GSAP target  not found. https://gsap.com
+[00:02:06.845] Browser ERROR   Failed to fetch /api/teams/groups: {}
+[00:02:06.845] Browser ERROR   Failed to fetch team groups: {}
+[00:06:01.130] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:01.360] Browser WARN    Invalid scope
+[00:06:01.361] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:06:01.361] Browser WARN    Invalid scope
+[00:06:01.361] Browser WARN    GSAP target  not found. https://gsap.com
+[00:06:20.914] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:50.453] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:50.835] Browser WARN    Invalid scope
+[00:07:50.835] Browser WARN    GSAP target .service-card not found. https://gsap.com
+[00:07:50.835] Browser WARN    Invalid scope
+[00:07:50.835] Browser WARN    GSAP target  not found. https://gsap.com
+[00:07:50.835] Browser WARN    Invalid scope
+[00:07:50.835] Browser WARN    Invalid scope
+[00:07:50.835] Browser WARN    Invalid scope
+[00:07:50.835] Browser WARN    Invalid scope
+[00:07:50.835] Browser WARN    Image with src "/portfolio-interface.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:07:50.835] Browser WARN    Image with src "/portfolio-blockchain.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:07:53.536] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:08:11.484] Browser WARN    Invalid scope
+[00:08:11.485] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:08:11.485] Browser WARN    Invalid scope
+[00:08:11.485] Browser WARN    GSAP target  not found. https://gsap.com
+[00:08:11.485] Browser WARN    Invalid scope
+[00:08:11.485] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:08:11.485] Browser WARN    Invalid scope
+[00:08:11.485] Browser WARN    GSAP target  not found. https://gsap.com
+[00:08:14.688] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:08:21.273] Browser WARN    Image with src "/team/ceo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:21.571] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:08:27.093] Browser WARN    Invalid scope
+[00:08:27.093] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:08:27.093] Browser WARN    Invalid scope
+[00:08:27.093] Browser WARN    GSAP target  not found. https://gsap.com
+[00:08:27.093] Browser WARN    Invalid scope
+[00:08:27.093] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:08:27.093] Browser WARN    Invalid scope
+[00:08:27.093] Browser WARN    GSAP target  not found. https://gsap.com
+[00:08:27.584] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:18:13.183] Browser WARN    Invalid scope
+[00:18:13.183] Browser WARN    GSAP target .service-card not found. https://gsap.com
+[00:18:13.183] Browser WARN    Invalid scope
+[00:18:13.183] Browser WARN    GSAP target  not found. https://gsap.com
+[00:18:13.183] Browser WARN    Invalid scope
+[00:18:13.183] Browser WARN    Invalid scope
+[00:18:13.183] Browser WARN    Invalid scope
+[00:18:13.183] Browser WARN    Invalid scope
+[00:18:13.183] Browser WARN    Invalid scope
+[00:18:13.183] Browser WARN    GSAP target .service-card not found. https://gsap.com
+[00:18:13.183] Browser WARN    Invalid scope
+[00:18:13.183] Browser WARN    GSAP target  not found. https://gsap.com
+[00:18:13.183] Browser WARN    Invalid scope
+[00:18:13.183] Browser WARN    Invalid scope
+[00:18:13.183] Browser WARN    Invalid scope
+[00:18:13.183] Browser WARN    Invalid scope
+[00:18:13.538] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:18:33.770] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[6.70716667175293,3.329251527786255,-5.861573696136475,3.763308525085449,1.1714965105056763,4.979150772094727,5.7844038009643555,6.6358866691589355,-0.8251253366470337,3.6802189350128174,5.613668918609619,5.0629072189331055,2.5075364112854004,-6.065180778503418,6.769959926605225,-2.018864870071411,-4.3964643478393555,6.583166599273682,5.650681972503662,-5.814812183380127,4.4393310546875,-3.3677141666412354,-3.2990424633026123,0.8494663238525391,-0.9544167518615723,2.0690481662750244,-5.510823726654053,-6.421247482299805,0.8999166488647461,0.026312991976737976,-2.6524622440338135,-4.961731433868408,-5.8455610275268555,4.629929542541504,0.8610877990722656,7.3062005043029785,1.4039255380630493,-7.831717014312744,4.139287948608398,-6.3177080154418945,-0.7992108464241028,-5.149682998657227,6.238561630249023,-6.556307792663574,-3.884103775024414,-6.046810150146484,4.972643852233887,-5.991381645202637,-7.290236473083496,-0.31573569774627686,5.503406047821045,-1.9373151063919067,1.588905692100525,4.283910274505615,-5.885081768035889,-1.0468982458114624,6.526260852813721,-5.184323787689209,-4.162254810333252,0.8814631700515747,0.06526912748813629,-6.061708450317383,6.591885089874268,1.0484840869903564,-2.1878676414489746,-1.4647611379623413,4.236736297607422,-2.3034377098083496,5.94617223739624,2.608513832092285,-1.8874468803405762,5.437212944030762,3.479933977127075,0.9280487298965454,-0.3539521098136902,-4.452744960784912,-2.0333306789398193,7.786591529846191,6.854280948638916,-1.7648539543151855,5.2136101722717285,5.263533115386963,1.2531054019927979,-7.725094318389893,-3.98812198638916,-3.9684019088745117,-4.992923259735107,-1.637389063835144,2.532440185546875,-0.3123769164085388,5.677825450897217,0.7708491683006287,0.10917957872152328,3.908611536026001,6.025659084320068,-5.49724006652832,-6.283256530761719,-0.910610020160675,6.887934684753418,-1.5989221334457397,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[-0.10060882568359375,0.02100515365600586,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"6a582ccc-a078-4b0d-a3ba-7b1208eafe08"}
+[00:18:34.042] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:18:41.997] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:18:50.136] Browser WARN    Invalid scope
+[00:18:50.136] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:18:50.136] Browser WARN    Invalid scope
+[00:18:50.136] Browser WARN    GSAP target  not found. https://gsap.com
+[00:18:50.136] Browser WARN    Invalid scope
+[00:18:50.136] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:18:50.136] Browser WARN    Invalid scope
+[00:18:50.136] Browser WARN    GSAP target  not found. https://gsap.com
+[00:18:50.597] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:18:50.597] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:18:50.597] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:18:50.597] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:18:50.597] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:18:50.597] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:18:56.074] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:19:07.754] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:19:08.002] Browser WARN    Image with src "/team/musaddaq.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:19:19.796] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[-3.671898603439331,-5.995636940002441,-6.321241855621338,-3.5525927543640137,-2.909209966659546,1.8938238620758057,-6.217739582061768,-0.88834148645401,-1.104245901107788,-6.551204204559326,0.17058077454566956,5.146982669830322,4.399374961853027,-6.219523906707764,-3.1469175815582275,-4.7611165046691895,-6.19666862487793,-4.07396936416626,2.4947681427001953,6.7524919509887695,-6.416085720062256,3.675354480743408,-0.39799895882606506,7.336679458618164,-2.0165975093841553,-5.863526821136475,-6.2657036781311035,5.394493579864502,-4.770925998687744,-2.5741124153137207,-5.123061656951904,3.120678424835205,7.515173435211182,-1.2054857015609741,5.646151065826416,-5.967173099517822,-2.8157687187194824,3.426511526107788,3.899930238723755,-0.257183313369751,-6.808709144592285,3.4233572483062744,-6.618069171905518,1.8260886669158936,5.712291240692139,2.3752450942993164,-5.372737407684326,5.086772441864014,-6.026813507080078,-0.31077152490615845,-7.450668811798096,4.436037063598633,1.1040959358215332,-6.322903633117676,-6.892723083496094,-3.532672166824341,-1.256160020828247,2.7234208583831787,-3.571572780609131,0.25522446632385254,-3.39973783493042,3.4983015060424805,-5.499801158905029,2.5623698234558105,-5.170347213745117,-3.5607492923736572,-4.942704677581787,4.1207594871521,-2.642336845397949,1.8152538537979126,-6.020323276519775,-5.175963401794434,-1.0871185064315796,-2.377673387527466,-9.563881874084473,3.6909561157226562,-2.400000810623169,0.32863032817840576,4.601866722106934,3.8204116821289062,2.0887372493743896,-5.613510608673096,5.6225199699401855,-2.446915864944458,2.608170509338379,4.115148544311523,-2.449439764022827,-4.873368263244629,-3.2378416061401367,3.124692678451538,0.4337345361709595,5.597897529602051,-5.497375011444092,-3.7726354598999023,-3.176337718963623,1.5225603580474854,-6.139377593994141,-5.451362133026123,0.6484729647636414,2.3247923851013184,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[0.003818035125732422,-0.0640411376953125,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"64378d51-fd63-492f-86c5-d82011e2cb2a"}
+[00:19:20.183] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:20:37.595] Browser WARN    Invalid scope
+[00:20:37.596] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:20:37.596] Browser WARN    Invalid scope
+[00:20:37.596] Browser WARN    GSAP target  not found. https://gsap.com
+[00:20:37.596] Browser WARN    Invalid scope
+[00:20:37.596] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:20:37.596] Browser WARN    Invalid scope
+[00:20:37.596] Browser WARN    GSAP target  not found. https://gsap.com
+[00:20:37.800] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:22:21.652] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:21.855] Browser WARN    Invalid scope
+[00:22:21.855] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:22:21.855] Browser WARN    Invalid scope
+[00:22:21.855] Browser WARN    GSAP target  not found. https://gsap.com
+[00:22:22.703] Browser WARN    Image with src "/team/ceo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:22.703] Browser WARN    Image with src "/team/musaddaq.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:22.703] Browser WARN    Image with src "/team/ceo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:22:22.703] Browser WARN    Image with src "/team/Sufiyan.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:22.703] Browser WARN    Image with src "/team/Haroon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:22.704] Browser WARN    Image with src "/team/Hamza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:22.704] Browser WARN    Image with src "/team/Zaryab.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:23.452] Browser WARN    Image with src "/team/Abdullah.JPG" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:24.531] Browser WARN    Image with src "/team/Fiza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:24.531] Browser WARN    Image with src "/team/Sajid.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:24.683] Browser WARN    Image with src "/team/anum.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:54.960] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[8.70567512512207,-3.8517026901245117,0.84203040599823,5.332169532775879,0.8849527835845947,-6.993553161621094,2.48063063621521,6.871933937072754,-4.269100666046143,-2.9601268768310547,2.103029727935791,6.261953830718994,-5.211277961730957,3.553281784057617,-4.764959812164307,-2.671229124069214,3.970796585083008,-2.604339361190796,-3.8647959232330322,6.217573165893555,0.08287958055734634,4.157196044921875,-4.926485538482666,1.8113937377929688,-0.783399224281311,1.2789220809936523,9.39920425415039,-0.8046716451644897,4.812350749969482,-1.6334412097930908,5.822389125823975,5.008467197418213,-0.3480777144432068,5.16184663772583,0.9826160073280334,-5.731490612030029,3.09039306640625,-2.699483633041382,8.290526390075684,0.12353009730577469,-3.5158438682556152,1.5638197660446167,-4.236306667327881,3.6689488887786865,-4.368881702423096,7.620448589324951,0.21336375176906586,6.330179691314697,-5.243058204650879,-5.457355499267578,2.6637966632843018,-3.433151960372925,-4.164322853088379,3.351841688156128,5.911106586456299,-2.76847243309021,-6.087213039398193,-4.1686577796936035,5.166168689727783,-2.651472806930542,5.0047173500061035,6.106663227081299,-0.8302915692329407,2.4337146282196045,-6.026769638061523,4.5486884117126465,3.273869514465332,-4.596225738525391,1.1948645114898682,-4.931476593017578,0.5321661233901978,6.958917617797852,7.1750712394714355,-2.5402565002441406,4.820542335510254,-0.3084374666213989,1.3359568119049072,1.3541322946548462,-2.7737717628479004,5.352485179901123,-5.525079727172852,3.0382840633392334,-2.315091609954834,-4.122445106506348,5.870167255401611,4.295693397521973,0.13125929236412048,-4.938147068023682,-2.1996097564697266,4.950379848480225,9.56912899017334,-1.1200097799301147,-2.2338576316833496,8.111738204956055,-2.1904282569885254,3.7289161682128906,3.6240432262420654,1.960256576538086,-4.843055248260498,-6.3716912269592285,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[-0.11615180969238281,-0.00839853286743164,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"8d605b20-bf83-4c6e-b77c-69f2a38f6dd1"}
+[00:22:55.252] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:22:59.208] Browser WARN    Invalid scope
+[00:22:59.208] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:22:59.208] Browser WARN    Invalid scope
+[00:22:59.208] Browser WARN    GSAP target  not found. https://gsap.com
+[00:22:59.208] Browser WARN    Invalid scope
+[00:22:59.208] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:22:59.208] Browser WARN    Invalid scope
+[00:22:59.208] Browser WARN    GSAP target  not found. https://gsap.com
+[00:22:59.739] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:23:14.409] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:28:28.710] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:27.954] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[-7.450912952423096,-1.3812397718429565,-0.008634052239358425,-8.754189491271973,1.0236574411392212,3.0328121185302734,6.701454162597656,4.410930156707764,-5.374536037445068,6.603623867034912,-3.987246036529541,6.207576751708984,9.186105728149414,-3.0769031047821045,1.5595728158950806,6.145393371582031,-5.711667060852051,-2.701491355895996,4.76274299621582,-4.91128396987915,2.1476006507873535,-5.035651683807373,2.9942786693573,3.091747522354126,-1.2696338891983032,-1.8223459720611572,8.248047828674316,-0.9986246228218079,1.1907522678375244,7.640526294708252,4.956474781036377,0.19495081901550293,-5.919837951660156,-1.4670292139053345,7.008435249328613,-1.0589317083358765,0.16865400969982147,0.40364864468574524,-7.029199123382568,3.9429445266723633,1.8535778522491455,4.511970043182373,-3.4769070148468018,-9.110099792480469,-0.02833452634513378,8.38976001739502,3.925915002822876,-2.2305848598480225,-7.250470161437988,-4.2808308601379395,4.393943786621094,-3.0452589988708496,-3.833955764770508,-6.659925937652588,3.5815415382385254,-4.8317461013793945,3.6332592964172363,4.228538990020752,-6.199477195739746,-2.2263543605804443,-2.156658411026001,8.533239364624023,-0.1410839706659317,4.752498626708984,-6.242473602294922,-2.78667950630188,7.276633262634277,-4.970236778259277,1.477159857749939,-5.5834269523620605,4.660441875457764,-5.802058219909668,5.355909824371338,5.356476306915283,6.43440055847168,2.877822160720825,7.791287422180176,0.8573095202445984,-2.6476757526397705,-4.083556175231934,-1.5786281824111938,6.759607791900635,-1.6831867694854736,4.927464962005615,1.269472599029541,0.08158843964338303,8.53048324584961,-8.049405097961426,2.9570651054382324,-4.54770565032959,8.527153015136719,-1.2780526876449585,1.0007946491241455,7.4722514152526855,1.7179564237594604,-5.590797424316406,-6.152161121368408,-0.7575532793998718,1.7245821952819824,-1.570448398590088,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[0.2159581184387207,0.06881427764892578,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"d7178129-4c81-4340-bfd0-a2f652f46e0a"}
+[00:31:28.314] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:31:45.110] Browser WARN    Invalid scope
+[00:31:45.110] Browser WARN    GSAP target .service-card not found. https://gsap.com
+[00:31:45.111] Browser WARN    Invalid scope
+[00:31:45.111] Browser WARN    GSAP target  not found. https://gsap.com
+[00:31:45.111] Browser WARN    Invalid scope
+[00:31:45.111] Browser WARN    Invalid scope
+[00:31:45.111] Browser WARN    Invalid scope
+[00:31:45.111] Browser WARN    Invalid scope
+[00:31:45.111] Browser WARN    Invalid scope
+[00:31:45.111] Browser WARN    GSAP target .service-card not found. https://gsap.com
+[00:31:45.111] Browser WARN    Invalid scope
+[00:31:45.111] Browser WARN    GSAP target  not found. https://gsap.com
+[00:31:45.111] Browser WARN    Invalid scope
+[00:31:45.111] Browser WARN    Invalid scope
+[00:31:45.111] Browser WARN    Invalid scope
+[00:31:45.111] Browser WARN    Invalid scope
+[00:31:45.111] Browser WARN    Image with src "/portfolio-interface.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:45.111] Browser WARN    Image with src "/portfolio-blockchain.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:45.587] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:31:50.603] Browser WARN    Invalid scope
+[00:31:50.603] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:31:50.603] Browser WARN    Invalid scope
+[00:31:50.603] Browser WARN    GSAP target  not found. https://gsap.com
+[00:31:50.603] Browser WARN    Invalid scope
+[00:31:50.603] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:31:50.603] Browser WARN    Invalid scope
+[00:31:50.603] Browser WARN    GSAP target  not found. https://gsap.com
+[00:31:51.113] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:39:10.936] Server  LOG     ✓ Compiled in 135ms
+[00:39:26.450] Server  LOG     ✓ Compiled in 236ms
+[00:39:34.110] Server  LOG     ✓ Compiled in 225ms
+[00:39:39.813] Server  LOG     ✓ Compiled in 115ms
+[00:39:53.811] Server  LOG     ✓ Compiled in 126ms
+[00:39:57.783] Server  LOG     ✓ Compiled in 276ms
+[00:42:14.655] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:42:17.512] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:42:34.727] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:42:37.230] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/portfolio" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
+                            className="inter_fe8b9d92-module__LINzvG__variable outfit_ca35ecd4-module__VNkuCW__variabl..."
+-                           monica-id="ofpnmcalabcbjgholdjcjblkibolbppb"
+-                           monica-version="8.0.4"
+                          >
+                  ...
+
+[00:42:37.230] Browser WARN    Invalid scope
+[00:42:37.230] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:42:37.230] Browser WARN    Invalid scope
+[00:42:37.230] Browser WARN    GSAP target  not found. https://gsap.com
+[00:43:09.515] Browser WARN    Image with src "/team/ceo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:09.515] Browser WARN    Image with src "/team/musaddaq.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:09.515] Browser WARN    Image with src "/team/Abdullah.JPG" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:09.515] Browser WARN    Image with src "/team/Zaryab.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:09.515] Browser WARN    Image with src "/team/Sufiyan.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:09.515] Browser WARN    Image with src "/team/Hamza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:09.515] Browser WARN    Image with src "/team/Haroon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:09.515] Browser WARN    Image with src "/team/Sajid.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:09.515] Browser WARN    Image with src "/team/Fiza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:09.515] Browser WARN    Image with src "/team/anum.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:15.550] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:15.725] Browser WARN    Invalid scope
+[00:43:15.725] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:43:15.725] Browser WARN    Invalid scope
+[00:43:15.725] Browser WARN    GSAP target  not found. https://gsap.com
+[00:43:16.261] Browser WARN    Image with src "/team/musaddaq.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:16.261] Browser WARN    Image with src "/team/Abdullah.JPG" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:16.261] Browser WARN    Image with src "/team/ceo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:16.261] Browser WARN    Image with src "/team/ceo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:43:16.261] Browser WARN    Image with src "/team/Zaryab.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:16.261] Browser WARN    Image with src "/team/Sufiyan.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:16.261] Browser WARN    Image with src "/team/Haroon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:16.261] Browser WARN    Image with src "/team/Hamza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:17.149] Browser WARN    Image with src "/team/Sajid.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:17.149] Browser WARN    Image with src "/team/Fiza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:17.149] Browser WARN    Image with src "/team/anum.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:43:21.582] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:43:54.257] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:54.636] Browser WARN    Image with src "/team/Hamza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:44:30.379] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:30.658] Browser WARN    Image with src "/team/Hamza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:44:58.609] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:59.556] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/admin" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
+                            className="inter_fe8b9d92-module__LINzvG__variable outfit_ca35ecd4-module__VNkuCW__variabl..."
+-                           monica-id="ofpnmcalabcbjgholdjcjblkibolbppb"
+-                           monica-version="8.0.4"
+                          >
+                  ...
+
+[00:46:15.301] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:15.579] Browser WARN    Image with src "/team/Hamza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:49:26.514] Server  LOG     ✓ Compiled in 468ms
+[00:49:46.234] Server  LOG     ✓ Compiled in 512ms
+[00:49:46.409] Browser ERROR   React has detected a change in the order of Hooks called by %s. This will lead to bugs and errors if not fixed. For more information, read the Rules of Hooks: https://react.dev/link/rules-of-hooks
+
+   Previous render            Next render
+   ------------------------------------------------------
+%s   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ TeamMemberPage 1. useRef                     useRef
+2. useState                   useState
+3. useState                   useState
+4. useEffect                  useEffect
+5. undefined                  useRef
+
+[00:49:46.409] Browser ERROR   uncaughtError: Error: Rendered more hooks than during the previous render.
+[00:49:46.897] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:50:19.152] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:50:19.173] Server  LOG     ✓ Compiled in 85ms
+[00:50:20.344] Browser ERROR   uncaughtError: Error: Rendered more hooks than during the previous render.
+[00:50:20.359] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:50:21.143] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:21.610] Browser ERROR   React has detected a change in the order of Hooks called by %s. This will lead to bugs and errors if not fixed. For more information, read the Rules of Hooks: https://react.dev/link/rules-of-hooks
+
+   Previous render            Next render
+   ------------------------------------------------------
+%s   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ TeamMemberPage 1. useRef                     useRef
+2. useState                   useState
+3. useState                   useState
+4. useEffect                  useEffect
+5. undefined                  useRef
+
+[00:50:21.610] Browser ERROR   uncaughtError: Error: Rendered more hooks than during the previous render.
+[00:50:30.667] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:32.160] Browser ERROR   React has detected a change in the order of Hooks called by %s. This will lead to bugs and errors if not fixed. For more information, read the Rules of Hooks: https://react.dev/link/rules-of-hooks
+
+   Previous render            Next render
+   ------------------------------------------------------
+%s   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ TeamMemberPage 1. useRef                     useRef
+2. useState                   useState
+3. useState                   useState
+4. useEffect                  useEffect
+5. undefined                  useRef
+
+[00:50:32.160] Browser ERROR   uncaughtError: Error: Rendered more hooks than during the previous render.
+[00:50:32.756] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:50:46.703] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:47.664] Browser WARN    Invalid scope
+[00:50:47.664] Browser WARN    GSAP target .service-card not found. https://gsap.com
+[00:50:47.664] Browser WARN    Invalid scope
+[00:50:47.664] Browser WARN    GSAP target  not found. https://gsap.com
+[00:50:47.664] Browser WARN    Invalid scope
+[00:50:47.664] Browser WARN    Invalid scope
+[00:50:47.664] Browser WARN    Invalid scope
+[00:50:47.664] Browser WARN    Invalid scope
+[00:50:47.664] Browser WARN    Image with src "/portfolio-interface.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:50:47.664] Browser WARN    Image with src "/portfolio-blockchain.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:50:48.908] Browser WARN    Invalid scope
+[00:50:48.909] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:50:48.909] Browser WARN    Invalid scope
+[00:50:48.909] Browser WARN    GSAP target  not found. https://gsap.com
+[00:50:48.909] Browser WARN    Invalid scope
+[00:50:48.909] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:50:48.909] Browser WARN    Invalid scope
+[00:50:48.909] Browser WARN    GSAP target  not found. https://gsap.com
+[00:50:49.462] Browser WARN    Image with src "/team/Sufiyan.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:50:49.462] Browser WARN    Image with src "/team/Zaryab.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:50:49.462] Browser WARN    Image with src "/team/ceo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:50:49.462] Browser WARN    Image with src "/team/Haroon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:50:49.462] Browser WARN    Image with src "/team/musaddaq.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:50:49.462] Browser WARN    Image with src "/team/Abdullah.JPG" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:50:49.462] Browser WARN    Image with src "/team/Hamza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:50:49.462] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:50:50.959] Browser WARN    Image with src "/team/Sajid.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:50:50.959] Browser WARN    Image with src "/team/Fiza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:50:50.959] Browser WARN    Image with src "/team/anum.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:50:53.630] Browser ERROR   React has detected a change in the order of Hooks called by %s. This will lead to bugs and errors if not fixed. For more information, read the Rules of Hooks: https://react.dev/link/rules-of-hooks
+
+   Previous render            Next render
+   ------------------------------------------------------
+%s   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ TeamMemberPage 1. useRef                     useRef
+2. useState                   useState
+3. useState                   useState
+4. useEffect                  useEffect
+5. undefined                  useRef
+
+[00:50:53.630] Browser ERROR   uncaughtError: Error: Rendered more hooks than during the previous render.
+[00:50:53.960] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:50:54.184] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:51:25.664] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:51:25.673] Server  LOG     ✓ Compiled in 187ms
+[00:51:26.333] Server  ERROR   ⨯ TypeError: Cannot read properties of null (reading 'image')
+[00:51:26.884] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:27.164] Browser ERROR   uncaughtError: TypeError: Cannot read properties of null (reading 'image')
+[00:51:28.760] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:51:28.785] Server  LOG     ✓ Compiled in 155ms
+[00:51:30.012] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    GSAP target .hero-section not found. https://gsap.com
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    GSAP target  not found. https://gsap.com
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    GSAP target .about-section not found. https://gsap.com
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    GSAP target  not found. https://gsap.com
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Element not found: .about-section
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    GSAP target  not found. https://gsap.com
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    GSAP target  not found. https://gsap.com
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Element not found: .skills-section
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    Invalid scope
+[00:51:30.271] Browser WARN    GSAP target  not found. https://gsap.com
+[00:51:30.857] Browser ERROR   uncaughtError: TypeError: project.technologies.map is not a function
+[00:51:31.546] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:52:04.489] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:52:04.506] Server  LOG     ✓ Compiled in 129ms
+[00:52:05.790] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:06.226] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    GSAP target .hero-section not found. https://gsap.com
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    GSAP target .about-section not found. https://gsap.com
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Element not found: .about-section
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Element not found: .skills-section
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    Invalid scope
+[00:52:06.227] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:06.450] Browser ERROR   <%s /> is using incorrect casing. Use PascalCase for React components, or lowercase for HTML elements. Code2
+[00:52:06.457] Browser ERROR   The tag <%s> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter. Code2
+[00:52:06.879] Browser WARN    Image with src "/team/Abdullah.JPG" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:17.380] Browser WARN    Invalid scope
+[00:52:17.380] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:52:17.380] Browser WARN    Invalid scope
+[00:52:17.380] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:17.380] Browser WARN    Invalid scope
+[00:52:17.380] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:52:17.380] Browser WARN    Invalid scope
+[00:52:17.380] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:17.958] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:52:18.239] Browser WARN    Image with src "/team/Hamza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:18.239] Browser WARN    Image with src "/team/Zaryab.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:18.239] Browser WARN    Image with src "/team/Sufiyan.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:18.239] Browser WARN    Image with src "/team/musaddaq.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:18.239] Browser WARN    Image with src "/team/ceo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:18.239] Browser WARN    Image with src "/team/Haroon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:18.239] Browser WARN    Image with src "/team/Sajid.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:18.239] Browser WARN    Image with src "/team/Fiza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:18.239] Browser WARN    Image with src "/team/anum.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:52:23.809] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target .hero-section not found. https://gsap.com
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target .about-section not found. https://gsap.com
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Element not found: .about-section
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Element not found: .skills-section
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target .hero-section not found. https://gsap.com
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target .about-section not found. https://gsap.com
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Element not found: .about-section
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Element not found: .skills-section
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    Invalid scope
+[00:52:23.811] Browser WARN    GSAP target  not found. https://gsap.com
+[00:52:24.363] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:52:24.363] Browser ERROR   <%s /> is using incorrect casing. Use PascalCase for React components, or lowercase for HTML elements. Code2
+[00:53:05.911] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.128] Browser WARN    GSAP target .hero-section not found. https://gsap.com
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.128] Browser WARN    GSAP target  not found. https://gsap.com
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.128] Browser WARN    GSAP target .about-section not found. https://gsap.com
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.128] Browser WARN    GSAP target  not found. https://gsap.com
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.128] Browser WARN    Element not found: .about-section
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.128] Browser WARN    GSAP target  not found. https://gsap.com
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.128] Browser WARN    GSAP target  not found. https://gsap.com
+[00:53:06.128] Browser WARN    Invalid scope
+[00:53:06.129] Browser WARN    Invalid scope
+[00:53:06.129] Browser WARN    Element not found: .skills-section
+[00:53:06.129] Browser WARN    Invalid scope
+[00:53:06.129] Browser WARN    Invalid scope
+[00:53:06.129] Browser WARN    Invalid scope
+[00:53:06.129] Browser WARN    Invalid scope
+[00:53:06.129] Browser WARN    Invalid scope
+[00:53:06.129] Browser WARN    Invalid scope
+[00:53:06.129] Browser WARN    GSAP target  not found. https://gsap.com
+[00:53:06.748] Browser ERROR   <%s /> is using incorrect casing. Use PascalCase for React components, or lowercase for HTML elements. Code2
+[00:53:06.748] Browser ERROR   The tag <%s> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter. Code2
+[00:53:06.748] Browser WARN    Image with src "/team/Hamza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:57:25.729] Server  LOG     ✓ Compiled in 239ms
+[00:57:31.157] Server  LOG     ✓ Compiled in 98ms
+[00:57:38.387] Server  LOG     ✓ Compiled in 337ms
+[00:58:43.999] Browser WARN    Invalid scope
+[00:58:43.999] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:58:43.999] Browser WARN    Invalid scope
+[00:58:43.999] Browser WARN    GSAP target  not found. https://gsap.com
+[00:58:43.999] Browser WARN    Invalid scope
+[00:58:43.999] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:58:43.999] Browser WARN    Invalid scope
+[00:58:43.999] Browser WARN    GSAP target  not found. https://gsap.com
+[00:58:44.612] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:58:44.612] Browser WARN    Image with src "/team/Abdullah.JPG" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:44.613] Browser WARN    Image with src "/team/Sufiyan.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:44.613] Browser WARN    Image with src "/team/Haroon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:44.613] Browser WARN    Image with src "/team/ceo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:44.613] Browser WARN    Image with src "/team/musaddaq.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:44.613] Browser WARN    Image with src "/team/Zaryab.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:46.535] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:46.834] Browser WARN    Invalid scope
+[00:58:46.834] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[00:58:46.834] Browser WARN    Invalid scope
+[00:58:46.834] Browser WARN    GSAP target  not found. https://gsap.com
+[00:58:47.702] Browser WARN    Image with src "/team/ceo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:47.702] Browser WARN    Image with src "/team/musaddaq.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:47.702] Browser WARN    Image with src "/team/Abdullah.JPG" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:47.702] Browser WARN    Image with src "/team/Zaryab.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:47.702] Browser WARN    Image with src "/team/Sufiyan.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:47.702] Browser WARN    Image with src "/team/Haroon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:47.702] Browser WARN    Image with src "/team/Hamza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:47.702] Browser WARN    Image with src "/team/ceo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:58:48.616] Browser WARN    Image with src "/team/Sajid.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:48.616] Browser WARN    Image with src "/team/Fiza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:58:48.616] Browser WARN    Image with src "/team/anum.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:59:33.199] Browser WARN    Invalid scope
+[00:59:33.199] Browser WARN    GSAP target .service-card not found. https://gsap.com
+[00:59:33.199] Browser WARN    Invalid scope
+[00:59:33.199] Browser WARN    GSAP target  not found. https://gsap.com
+[00:59:33.199] Browser WARN    Invalid scope
+[00:59:33.199] Browser WARN    Invalid scope
+[00:59:33.199] Browser WARN    Invalid scope
+[00:59:33.199] Browser WARN    Invalid scope
+[00:59:33.199] Browser WARN    Invalid scope
+[00:59:33.199] Browser WARN    GSAP target .service-card not found. https://gsap.com
+[00:59:33.199] Browser WARN    Invalid scope
+[00:59:33.199] Browser WARN    GSAP target  not found. https://gsap.com
+[00:59:33.199] Browser WARN    Invalid scope
+[00:59:33.199] Browser WARN    Invalid scope
+[00:59:33.200] Browser WARN    Invalid scope
+[00:59:33.200] Browser WARN    Invalid scope
+[00:59:33.416] Browser WARN    Image with src "/portfolio-interface.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:59:33.416] Browser WARN    Image with src "/portfolio-blockchain.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:59:33.624] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:59:50.006] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:00:02.020] Browser WARN    Invalid scope
+[01:00:02.020] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[01:00:02.020] Browser WARN    Invalid scope
+[01:00:02.020] Browser WARN    GSAP target  not found. https://gsap.com
+[01:00:02.020] Browser WARN    Invalid scope
+[01:00:02.020] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[01:00:02.020] Browser WARN    Invalid scope
+[01:00:02.020] Browser WARN    GSAP target  not found. https://gsap.com
+[01:00:02.646] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:00:02.646] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:00:02.646] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:00:02.646] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:00:02.646] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:00:02.646] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:00:12.565] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:00:24.910] Browser WARN    Invalid scope
+[01:00:24.910] Browser WARN    GSAP target .hero-section not found. https://gsap.com
+[01:00:24.910] Browser WARN    Invalid scope
+[01:00:24.910] Browser WARN    GSAP target  not found. https://gsap.com
+[01:00:24.910] Browser WARN    Invalid scope
+[01:00:24.910] Browser WARN    GSAP target .about-section not found. https://gsap.com
+[01:00:24.910] Browser WARN    Invalid scope
+[01:00:24.910] Browser WARN    GSAP target  not found. https://gsap.com
+[01:00:24.910] Browser WARN    Invalid scope
+[01:00:24.910] Browser WARN    Invalid scope
+[01:00:24.910] Browser WARN    Element not found: .about-section
+[01:00:24.910] Browser WARN    Invalid scope
+[01:00:24.910] Browser WARN    Invalid scope
+[01:00:24.910] Browser WARN    Invalid scope
+[01:00:24.910] Browser WARN    Invalid scope
+[01:00:24.910] Browser WARN    GSAP target  not found. https://gsap.com
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    GSAP target  not found. https://gsap.com
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Element not found: .skills-section
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    GSAP target  not found. https://gsap.com
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    GSAP target .hero-section not found. https://gsap.com
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    GSAP target  not found. https://gsap.com
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    GSAP target .about-section not found. https://gsap.com
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    GSAP target  not found. https://gsap.com
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Element not found: .about-section
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    GSAP target  not found. https://gsap.com
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    GSAP target  not found. https://gsap.com
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Element not found: .skills-section
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    Invalid scope
+[01:00:24.911] Browser WARN    GSAP target  not found. https://gsap.com
+[01:00:25.366] Browser ERROR   <%s /> is using incorrect casing. Use PascalCase for React components, or lowercase for HTML elements. Code2
+[01:00:25.366] Browser ERROR   The tag <%s> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter. Code2
+[01:00:25.480] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:00:39.816] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:00:42.553] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[-4.290894985198975,-1.1335803270339966,0.4931568205356598,3.2039601802825928,-3.699084997177124,3.9875845909118652,-6.271512031555176,0.03387872874736786,-5.9953694343566895,0.55426025390625,3.356358051300049,8.231279373168945,1.2712818384170532,1.8792598247528076,5.7391438484191895,-5.657352924346924,1.2611737251281738,1.0629476308822632,-4.610244274139404,-6.917198657989502,2.604949474334717,-3.3696985244750977,-2.3612236976623535,-2.70585560798645,1.01785147190094,-5.471390724182129,-5.999912261962891,-5.931545734405518,6.8266730308532715,-2.7017159461975098,6.520237922668457,6.740445613861084,0.9960390329360962,0.37654900550842285,6.909143447875977,6.1914963722229,-2.3537073135375977,-6.749266624450684,6.258410930633545,-4.086454391479492,4.824905872344971,4.301479339599609,2.005138874053955,-4.955276966094971,4.646207809448242,3.600529193878174,0.8226070404052734,-4.931092739105225,5.09613561630249,2.7404747009277344,1.1599708795547485,2.5814666748046875,5.0748162269592285,6.163446426391602,-4.885842800140381,-7.344581604003906,4.601645469665527,-4.742254257202148,-5.6199235916137695,4.374246120452881,5.100355625152588,-5.260693073272705,0.4844508469104767,-1.6399290561676025,6.494745254516602,-5.364625453948975,-0.9478552937507629,2.5671896934509277,2.1907825469970703,-6.4492621421813965,-3.0199503898620605,-1.6203982830047607,4.0571818351745605,-1.8182854652404785,-3.743032693862915,3.833820343017578,3.8781096935272217,-1.5112419128417969,-4.108015537261963,-0.0817265436053276,-5.891705513000488,-0.9608056545257568,2.173508882522583,-9.027562141418457,-1.3393971920013428,-2.560567617416382,3.3389501571655273,-1.6320308446884155,-4.667840003967285,-6.189527988433838,3.3298897743225098,-4.228597640991211,-4.804671287536621,0.09694934636354446,-4.465317726135254,3.4976022243499756,5.06909704208374,6.924599647521973,1.9930355548858643,0.440889835357666,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[0.5074949264526367,0.015148162841796875,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"988e9be7-9031-46d4-8ff3-9ab4a21e4d2f"}
+[01:02:38.014] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:03:47.890] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:04:07.095] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:00.621] Server  LOG     ✓ Compiled in 1166ms
+[01:06:01.392] Browser WARN    GSAP target .project-card not found. https://gsap.com
+[01:06:01.393] Browser WARN    GSAP target  not found. https://gsap.com
+[01:06:03.145] Browser WARN    GSAP target  not found. https://gsap.com
+[01:06:03.146] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:06:12.479] Server  LOG     ✓ Compiled in 513ms
+[01:06:12.868] Browser ERROR   React has detected a change in the order of Hooks called by %s. This will lead to bugs and errors if not fixed. For more information, read the Rules of Hooks: https://react.dev/link/rules-of-hooks
+
+   Previous render            Next render
+   ------------------------------------------------------
+%s   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ KeyProjectsPage 1. useRef                     useRef
+2. useState                   useState
+3. useState                   useState
+4. useState                   useState
+5. useEffect                  useEffect
+6. useState                   useState
+7. useRef                     useRef
+8. useRef                     useRef
+9. useRef                     useRef
+10. useLayoutEffect           useLayoutEffect
+11. useRef                    useLayoutEffect
+
+[01:06:12.876] Browser ERROR   uncaughtError: Error: Rendered more hooks than during the previous render.
+[01:06:13.511] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:06:31.938] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:06:31.949] Server  LOG     ✓ Compiled in 105ms
+[01:06:37.076] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:37.121] Browser ERROR   ./app/key-projects/page.tsx:390:17
+Parsing ecmascript source code failed
+  388 |                 </div>
+  389 |
+> 390 |                 {/* CTA Section */}
+      |                 ^
+  391 |                 <div className="max-w-4xl mx-auto text-center bg-gradient-to-r from-cyan-500/10 to-purple-500/10 border border-cyan-500/30 rounded-3xl p-12 relative">
+  392 |                     {/* Glow Effect */}
+  393 |                     <div className="absolute inset-0 bg-cyan-500/5 rounded-3xl blur-xl" />
+
+Expected '</', got '{'
+
+Import traces:
+  Client Component Browser:
+    ./app/key-projects/page.tsx [Client Component Browser]
+    ./app/key-projects/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/key-projects/page.tsx [Client Component SSR]
+    ./app/key-projects/page.tsx [Server Component]
+[01:06:37.282] Browser ERROR   ./app/key-projects/page.tsx:390:17
+Parsing ecmascript source code failed
+  388 |                 </div>
+  389 |
+> 390 |                 {/* CTA Section */}
+      |                 ^
+  391 |                 <div className="max-w-4xl mx-auto text-center bg-gradient-to-r from-cyan-500/10 to-purple-500/10 border border-cyan-500/30 rounded-3xl p-12 relative">
+  392 |                     {/* Glow Effect */}
+  393 |                     <div className="absolute inset-0 bg-cyan-500/5 rounded-3xl blur-xl" />
+
+Expected '</', got '{'
+
+Import traces:
+  Client Component Browser:
+    ./app/key-projects/page.tsx [Client Component Browser]
+    ./app/key-projects/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/key-projects/page.tsx [Client Component SSR]
+    ./app/key-projects/page.tsx [Server Component]
+[01:06:37.470] Browser ERROR   ./app/key-projects/page.tsx:390:17
+Parsing ecmascript source code failed
+  388 |                 </div>
+  389 |
+> 390 |                 {/* CTA Section */}
+      |                 ^
+  391 |                 <div className="max-w-4xl mx-auto text-center bg-gradient-to-r from-cyan-500/10 to-purple-500/10 border border-cyan-500/30 rounded-3xl p-12 relative">
+  392 |                     {/* Glow Effect */}
+  393 |                     <div className="absolute inset-0 bg-cyan-500/5 rounded-3xl blur-xl" />
+
+Expected '</', got '{'
+
+Import traces:
+  Client Component Browser:
+    ./app/key-projects/page.tsx [Client Component Browser]
+    ./app/key-projects/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/key-projects/page.tsx [Client Component SSR]
+    ./app/key-projects/page.tsx [Server Component]
+[01:06:38.154] Browser ERROR   ./app/key-projects/page.tsx:390:17
+Parsing ecmascript source code failed
+  388 |                 </div>
+  389 |
+> 390 |                 {/* CTA Section */}
+      |                 ^
+  391 |                 <div className="max-w-4xl mx-auto text-center bg-gradient-to-r from-cyan-500/10 to-purple-500/10 border border-cyan-500/30 rounded-3xl p-12 relative">
+  392 |                     {/* Glow Effect */}
+  393 |                     <div className="absolute inset-0 bg-cyan-500/5 rounded-3xl blur-xl" />
+
+Expected '</', got '{'
+
+Import traces:
+  Client Component Browser:
+    ./app/key-projects/page.tsx [Client Component Browser]
+    ./app/key-projects/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/key-projects/page.tsx [Client Component SSR]
+    ./app/key-projects/page.tsx [Server Component]
+[01:08:09.371] Server  LOG     ✓ Compiled in 699ms
+[01:13:55.117] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:14:27.936] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:15:49.160] Browser WARN    Invalid scope
+[01:15:49.160] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[01:15:49.160] Browser WARN    Invalid scope
+[01:15:49.160] Browser WARN    GSAP target  not found. https://gsap.com
+[01:15:49.160] Browser WARN    Invalid scope
+[01:15:49.160] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[01:15:49.160] Browser WARN    Invalid scope
+[01:15:49.160] Browser WARN    GSAP target  not found. https://gsap.com
+[01:15:49.571] Browser WARN    GSAP target  not found. https://gsap.com
+[01:15:49.571] Browser WARN    GSAP target  not found. https://gsap.com
+[01:15:49.913] Browser WARN    Image with src "/team/ceo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:15:49.913] Browser WARN    Image with src "/team/Zaryab.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:15:49.913] Browser WARN    Image with src "/team/musaddaq.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:15:49.913] Browser WARN    Image with src "/team/Abdullah.JPG" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:15:49.913] Browser WARN    Image with src "/team/Sufiyan.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:15:49.913] Browser WARN    Image with src "/team/Haroon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:15:49.913] Browser WARN    Image with src "/team/Hamza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:15:49.913] Browser WARN    Image with src "/team/Fiza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:15:49.913] Browser WARN    Image with src "/team/Sajid.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:15:49.913] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:15:49.913] Browser WARN    Image with src "/team/anum.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:01.216] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:16:02.054] Browser WARN    Invalid scope
+[01:16:02.054] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[01:16:02.054] Browser WARN    Invalid scope
+[01:16:02.054] Browser WARN    GSAP target  not found. https://gsap.com
+[01:16:02.054] Browser WARN    GSAP target  not found. https://gsap.com
+[01:16:02.574] Browser WARN    Image with src "/team/ceo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:02.574] Browser WARN    Image with src "/team/musaddaq.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:02.574] Browser WARN    Image with src "/team/Abdullah.JPG" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:02.574] Browser WARN    Image with src "/team/Hamza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:02.574] Browser WARN    Image with src "/team/Sajid.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:02.574] Browser WARN    Image with src "/team/Fiza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:02.574] Browser WARN    Image with src "/team/Sufiyan.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:02.574] Browser WARN    Image with src "/team/Zaryab.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:02.574] Browser WARN    Image with src "/team/Haroon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:02.574] Browser WARN    Image with src "/team/anum.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:02.574] Browser WARN    Image with src "/team/ceo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:16:21.601] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:16:21.838] Browser WARN    Invalid scope
+[01:16:21.838] Browser WARN    GSAP target .hero-content not found. https://gsap.com
+[01:16:21.838] Browser WARN    Invalid scope
+[01:16:21.838] Browser WARN    GSAP target  not found. https://gsap.com
+[01:16:22.797] Browser WARN    Image with src "/team/ceo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:22.797] Browser WARN    Image with src "/team/Zaryab.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:22.797] Browser WARN    Image with src "/team/Sufiyan.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:22.797] Browser WARN    Image with src "/team/Haroon.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:22.797] Browser WARN    Image with src "/team/Abdullah.JPG" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:22.797] Browser WARN    Image with src "/team/musaddaq.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:22.797] Browser WARN    Image with src "/team/Hamza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:22.797] Browser WARN    Image with src "/team/Sajid.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:22.797] Browser WARN    Image with src "/team/Fiza.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:22.797] Browser WARN    Image with src "/team/anum.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    GSAP target .hero-section not found. https://gsap.com
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    GSAP target  not found. https://gsap.com
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    GSAP target .about-section not found. https://gsap.com
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    GSAP target  not found. https://gsap.com
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Element not found: .about-section
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    GSAP target  not found. https://gsap.com
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    GSAP target  not found. https://gsap.com
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Element not found: .skills-section
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    GSAP target  not found. https://gsap.com
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    GSAP target .hero-section not found. https://gsap.com
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    GSAP target  not found. https://gsap.com
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    GSAP target .about-section not found. https://gsap.com
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    GSAP target  not found. https://gsap.com
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.113] Browser WARN    Element not found: .about-section
+[01:16:30.113] Browser WARN    Invalid scope
+[01:16:30.114] Browser WARN    Invalid scope
+[01:16:30.114] Browser WARN    Invalid scope
+[01:16:30.114] Browser WARN    Invalid scope
+[01:16:30.114] Browser WARN    GSAP target  not found. https://gsap.com
+[01:16:30.114] Browser WARN    Invalid scope
+[01:16:30.114] Browser WARN    GSAP target  not found. https://gsap.com
+[01:16:30.114] Browser WARN    Invalid scope
+[01:16:30.114] Browser WARN    Invalid scope
+[01:16:30.114] Browser WARN    Element not found: .skills-section
+[01:16:30.114] Browser WARN    Invalid scope
+[01:16:30.114] Browser WARN    Invalid scope
+[01:16:30.114] Browser WARN    Invalid scope
+[01:16:30.114] Browser WARN    Invalid scope
+[01:16:30.114] Browser WARN    Invalid scope
+[01:16:30.114] Browser WARN    Invalid scope
+[01:16:30.114] Browser WARN    GSAP target  not found. https://gsap.com
+[01:16:31.203] Browser ERROR   <%s /> is using incorrect casing. Use PascalCase for React components, or lowercase for HTML elements. Briefcase
+[01:16:31.203] Browser ERROR   The tag <%s> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter. Briefcase
+[01:16:31.203] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:19:21.988] Server  LOG     ✓ Compiled in 162ms
+[01:19:34.241] Server  LOG     ✓ Compiled in 75ms
+[01:23:27.674] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:25:41.683] Server  LOG     ✓ Compiled in 289ms
+[01:25:56.926] Server  LOG     ✓ Compiled in 120ms
+[01:26:05.056] Server  LOG     ✓ Compiled in 131ms
+[01:26:11.617] Server  LOG     ✓ Compiled in 137ms
+[01:26:54.692] Server  LOG     ✓ Compiled in 164ms
+[01:27:06.762] Server  LOG     ✓ Compiled in 86ms
+[01:27:37.568] Server  LOG     ✓ Compiled in 279ms
+[01:27:38.090] Browser ERROR   uncaughtError: ReferenceError: servicesList is not defined
+[01:27:40.089] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:27:40.089] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:27:40.089] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:27:40.089] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:27:40.089] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:27:40.089] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:27:40.293] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:27:40.306] Server  LOG     ✓ Compiled in 58ms
+[01:27:41.260] Server  ERROR   ⨯ ReferenceError: servicesList is not defined
+[01:27:41.286] Browser ERROR   uncaughtError: ReferenceError: servicesList is not defined
+[01:27:46.089] Browser ERROR   ./app/services/page.tsx:125:9
+Parsing ecmascript source code failed
+  123 |
+  124 |             <Footer />
+> 125 |         </main>
+      |         ^
+  126 |     );
+  127 | }
+  128 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/services/page.tsx [Client Component Browser]
+    ./app/services/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/services/page.tsx [Client Component SSR]
+    ./app/services/page.tsx [Server Component]
+[01:27:46.089] Browser ERROR   ./app/services/page.tsx:125:10
+Parsing ecmascript source code failed
+  123 |
+  124 |             <Footer />
+> 125 |         </main>
+      |          ^^^^^^
+  126 |     );
+  127 | }
+  128 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./app/services/page.tsx [Client Component Browser]
+    ./app/services/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/services/page.tsx [Client Component SSR]
+    ./app/services/page.tsx [Server Component]
+[01:27:46.570] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:27:46.812] Browser ERROR   ./app/services/page.tsx:125:9
+Parsing ecmascript source code failed
+  123 |
+  124 |             <Footer />
+> 125 |         </main>
+      |         ^
+  126 |     );
+  127 | }
+  128 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/services/page.tsx [Client Component Browser]
+    ./app/services/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/services/page.tsx [Client Component SSR]
+    ./app/services/page.tsx [Server Component]
+[01:27:46.813] Browser ERROR   ./app/services/page.tsx:125:10
+Parsing ecmascript source code failed
+  123 |
+  124 |             <Footer />
+> 125 |         </main>
+      |          ^^^^^^
+  126 |     );
+  127 | }
+  128 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./app/services/page.tsx [Client Component Browser]
+    ./app/services/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/services/page.tsx [Client Component SSR]
+    ./app/services/page.tsx [Server Component]
+[01:27:47.091] Browser ERROR   ./app/services/page.tsx:125:9
+Parsing ecmascript source code failed
+  123 |
+  124 |             <Footer />
+> 125 |         </main>
+      |         ^
+  126 |     );
+  127 | }
+  128 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/services/page.tsx [Client Component Browser]
+    ./app/services/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/services/page.tsx [Client Component SSR]
+    ./app/services/page.tsx [Server Component]
+[01:27:47.091] Browser ERROR   ./app/services/page.tsx:125:10
+Parsing ecmascript source code failed
+  123 |
+  124 |             <Footer />
+> 125 |         </main>
+      |          ^^^^^^
+  126 |     );
+  127 | }
+  128 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./app/services/page.tsx [Client Component Browser]
+    ./app/services/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/services/page.tsx [Client Component SSR]
+    ./app/services/page.tsx [Server Component]
+[01:27:47.205] Browser ERROR   ./app/services/page.tsx:125:9
+Parsing ecmascript source code failed
+  123 |
+  124 |             <Footer />
+> 125 |         </main>
+      |         ^
+  126 |     );
+  127 | }
+  128 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/services/page.tsx [Client Component Browser]
+    ./app/services/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/services/page.tsx [Client Component SSR]
+    ./app/services/page.tsx [Server Component]
+[01:27:47.205] Browser ERROR   ./app/services/page.tsx:125:10
+Parsing ecmascript source code failed
+  123 |
+  124 |             <Footer />
+> 125 |         </main>
+      |          ^^^^^^
+  126 |     );
+  127 | }
+  128 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./app/services/page.tsx [Client Component Browser]
+    ./app/services/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/services/page.tsx [Client Component SSR]
+    ./app/services/page.tsx [Server Component]
+[01:27:47.205] Browser ERROR   uncaughtError: ReferenceError: servicesList is not defined
+[01:27:50.089] Browser ERROR   ./app/services/page.tsx:122:9
+Parsing ecmascript source code failed
+  120 |
+  121 |             <Footer />
+> 122 |         </main>
+      |         ^
+  123 |     );
+  124 | }
+  125 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/services/page.tsx [Client Component Browser]
+    ./app/services/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/services/page.tsx [Client Component SSR]
+    ./app/services/page.tsx [Server Component]
+[01:27:50.089] Browser ERROR   ./app/services/page.tsx:122:10
+Parsing ecmascript source code failed
+  120 |
+  121 |             <Footer />
+> 122 |         </main>
+      |          ^^^^^^
+  123 |     );
+  124 | }
+  125 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./app/services/page.tsx [Client Component Browser]
+    ./app/services/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/services/page.tsx [Client Component SSR]
+    ./app/services/page.tsx [Server Component]
+[01:27:50.090] Browser ERROR   ./app/services/page.tsx:122:9
+Parsing ecmascript source code failed
+  120 |
+  121 |             <Footer />
+> 122 |         </main>
+      |         ^
+  123 |     );
+  124 | }
+  125 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./app/services/page.tsx [Client Component Browser]
+    ./app/services/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/services/page.tsx [Client Component SSR]
+    ./app/services/page.tsx [Server Component]
+[01:27:50.090] Browser ERROR   ./app/services/page.tsx:122:10
+Parsing ecmascript source code failed
+  120 |
+  121 |             <Footer />
+> 122 |         </main>
+      |          ^^^^^^
+  123 |     );
+  124 | }
+  125 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./app/services/page.tsx [Client Component Browser]
+    ./app/services/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/services/page.tsx [Client Component SSR]
+    ./app/services/page.tsx [Server Component]
+[01:27:52.620] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:27:52.640] Server  LOG     ✓ Compiled in 56ms
+[01:27:56.418] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:27:58.110] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/services" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
+                            className="inter_fe8b9d92-module__LINzvG__variable outfit_ca35ecd4-module__VNkuCW__variabl..."
+-                           monica-id="ofpnmcalabcbjgholdjcjblkibolbppb"
+-                           monica-version="8.0.4"
+                          >
+                  ...
+
+[01:30:22.671] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:30:22.671] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:30:22.671] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:30:22.671] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:30:22.671] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:30:22.671] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:30:44.149] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[-1.9971156120300293,-7.035400390625,1.446536898612976,2.080242156982422,-3.7049312591552734,-4.276771068572998,-3.11250638961792,-3.754298686981201,4.0253753662109375,-3.0367681980133057,-3.419917106628418,-4.1085205078125,-4.067322731018066,-4.8761701583862305,-7.128637790679932,-2.888561725616455,3.1737308502197266,-2.696338415145874,6.270924091339111,-6.282687187194824,-2.7123799324035645,-0.772274374961853,4.5768141746521,1.9805365800857544,2.6487128734588623,-5.483290195465088,-3.4092094898223877,2.09513521194458,-4.23358154296875,4.847809791564941,-0.6639125347137451,-4.563304901123047,-8.747946739196777,5.247795581817627,3.880857467651367,7.230083465576172,2.1658802032470703,4.0164995193481445,-4.885860443115234,-4.162923336029053,-3.5363831520080566,-6.044772624969482,1.7152831554412842,0.006758402567356825,5.014278888702393,-4.573636531829834,-4.595119953155518,-1.5835586786270142,-8.83276081085205,1.264589548110962,-2.899350881576538,-6.371842384338379,3.362051486968994,1.9166626930236816,1.5302530527114868,5.49699592590332,5.183268070220947,-2.9620461463928223,-6.257002830505371,6.885923385620117,3.3592209815979004,-0.19950546324253082,-8.052617073059082,2.943878650665283,7.820369720458984,-0.5576438903808594,2.246953010559082,1.8539100885391235,4.346722602844238,-6.821043968200684,-1.566174030303955,2.5631768703460693,6.6464433670043945,2.356757164001465,-6.309329032897949,-6.131213665008545,2.574725389480591,-5.343278408050537,-1.8628860712051392,-1.474066138267517,9.70979118347168,-2.9381284713745117,5.852224826812744,-3.9215214252471924,-4.795036315917969,6.263526439666748,2.2104785442352295,0.11846822500228882,-2.2445082664489746,-2.6290628910064697,-0.6808987855911255,-4.4536614418029785,6.662025451660156,-2.4602479934692383,1.4379810094833374,3.8325107097625732,6.721693515777588,4.602457046508789,5.557821273803711,-6.684999942779541,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[0.09739160537719727,-0.18633365631103516,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"9e945ce4-ac9b-4b20-99c4-5df1afa2a198"}
+[01:32:05.911] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:07.931] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[2.719611644744873,7.386226654052734,1.4240885972976685,-7.101589202880859,-2.182563304901123,5.300479412078857,-2.218074083328247,5.404842853546143,-5.74284029006958,4.035404682159424,-5.7947540283203125,2.3718783855438232,-3.0668892860412598,0.3533875346183777,6.530888557434082,8.037534713745117,1.394687533378601,4.844836235046387,-5.171759605407715,2.20094633102417,-2.6289114952087402,-1.0220694541931152,-1.8315470218658447,6.533519744873047,-1.9658032655715942,3.2790744304656982,-3.0024831295013428,-0.8908267617225647,2.2905783653259277,3.527298927307129,6.504659175872803,1.6324408054351807,0.8143746852874756,-0.010035798884928226,-1.5930479764938354,7.532469749450684,7.021513938903809,0.9369494915008545,4.161449909210205,5.311439037322998,2.389066457748413,5.635623931884766,-4.115974426269531,-6.615556240081787,3.2490992546081543,-6.918553829193115,1.4163517951965332,1.252114176750183,-0.07001738250255585,4.298377513885498,8.245984077453613,4.898509502410889,-5.780702114105225,-4.338262557983398,5.016290187835693,2.3647639751434326,3.4710888862609863,5.78750467300415,-4.438879489898682,-5.299134254455566,5.5639848709106445,1.2720489501953125,-2.660569906234741,-1.4713553190231323,3.61374831199646,5.884349346160889,-3.2322633266448975,-1.7970962524414062,-0.3087584376335144,1.400497317314148,5.8660807609558105,1.9324718713760376,4.313920497894287,1.193253755569458,8.086991310119629,1.0316163301467896,-1.0904632806777954,-5.6856160163879395,-5.669260501861572,5.81313943862915,4.41392707824707,8.423752784729004,3.378922700881958,-2.938619375228882,4.766313076019287,-5.573987007141113,-2.7577965259552,-0.8770339488983154,-3.7206664085388184,-0.9708864688873291,7.659129619598389,0.1943894773721695,4.374288558959961,6.508549690246582,5.783662796020508,4.426912307739258,-4.488864898681641,6.492176532745361,-4.986321449279785,6.391202449798584,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[-0.07013988494873047,-0.14031696319580078,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"e665e5b0-c1b7-4fc5-b932-233cf1fe78ec"}
+[01:34:14.745] Server  LOG     ✓ Compiled in 1265ms
+[01:40:40.169] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[3.870849370956421,6.960752010345459,-3.9312477111816406,-5.974523067474365,-3.722670078277588,-5.46492338180542,2.316800117492676,-6.191810131072998,-1.2077696323394775,2.9953813552856445,-3.2497518062591553,-8.951398849487305,1.7804614305496216,3.6860930919647217,-2.714719533920288,8.778937339782715,2.3066060543060303,0.7632458806037903,-0.20238302648067474,2.078974962234497,3.7117464542388916,4.569210052490234,4.3537726402282715,-5.015757083892822,3.4575693607330322,4.2935662269592285,-6.630209922790527,7.171354293823242,3.5455873012542725,1.1700339317321777,5.506748199462891,6.239664077758789,2.1985466480255127,-1.6943857669830322,2.2142114639282227,3.9364516735076904,0.9941801428794861,4.725295543670654,4.410495281219482,-0.12057463079690933,-5.842556476593018,7.101345062255859,-4.357479095458984,-1.5727711915969849,-1.695677399635315,-7.221923351287842,-2.80670428276062,0.7555961608886719,0.07011287659406662,8.28891372680664,-5.423818588256836,-6.6562886238098145,3.4069793224334717,-5.065148830413818,7.184962749481201,5.715785503387451,0.11015710979700089,0.9431642293930054,-3.0144827365875244,7.586292266845703,1.2209954261779785,4.259507656097412,2.109668493270874,4.44265604019165,-0.7759257555007935,0.5470302700996399,-2.8572208881378174,-1.737361192703247,-0.131986603140831,5.359582901000977,-6.136382579803467,-2.8021745681762695,-6.889990329742432,5.697574615478516,-3.852444648742676,5.708881855010986,-0.24246244132518768,-4.740869045257568,3.8626320362091064,-4.786219120025635,6.2204108238220215,-4.690138339996338,5.725492000579834,6.544073104858398,1.1410421133041382,-9.008328437805176,-4.138828277587891,-1.3912417888641357,4.969841003417969,4.583989143371582,-1.3352855443954468,-3.014753580093384,-5.9040727615356445,-2.0963008403778076,-6.857641696929932,-6.642845153808594,8.869184494018555,0.821656346321106,3.0886998176574707,-3.306511402130127,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[-0.3462395668029785,0.3868732452392578,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"0d130e4e-cb49-49bf-9b52-5ac17e7936c2"}
+[01:40:40.322] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:40:56.061] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[6.7047810554504395,1.6816647052764893,-6.855362892150879,-5.8881306648254395,-7.489309310913086,-1.629805564880371,2.8708462715148926,3.8712759017944336,-8.0389404296875,-1.5211763381958008,-5.920570373535156,4.630102157592773,3.136185646057129,7.230098247528076,-1.5820626020431519,4.578208923339844,2.208458185195923,-6.897829055786133,-0.24767063558101654,5.174894332885742,-5.598156452178955,5.028148651123047,-4.607077598571777,-5.795804023742676,-4.178072452545166,0.2563788890838623,-6.007297992706299,-7.912957668304443,-5.669816493988037,-0.48038333654403687,-0.8139861822128296,3.843709707260132,-1.6182730197906494,-5.318874835968018,0.29027530550956726,7.197116851806641,4.935902118682861,-5.9876627922058105,-4.503454685211182,-0.16119393706321716,2.4047746658325195,-5.011369705200195,-2.204235553741455,-3.6403157711029053,-8.97806167602539,-1.2967928647994995,-5.502566337585449,0.31176960468292236,-5.141824245452881,-2.9496853351593018,-2.87882137298584,-0.9512128233909607,0.522186279296875,3.8151957988739014,4.646256923675537,1.3316484689712524,0.03572869300842285,4.230790138244629,6.714715957641602,-5.806210517883301,-3.170099973678589,-4.769601345062256,-5.715604305267334,7.969067573547363,-0.8183223009109497,0.32255059480667114,6.012401580810547,3.285074234008789,3.8544342517852783,8.2080659866333,-3.844249725341797,-1.8662338256835938,0.3800874352455139,-2.2648732662200928,-5.451158046722412,0.11784375458955765,-3.2879340648651123,-3.630608081817627,1.3255449533462524,4.1314263343811035,-5.698842525482178,-0.23352858424186707,2.8076136112213135,-6.605802536010742,4.735652446746826,-3.4710144996643066,-2.8395578861236572,-1.9353251457214355,-3.0750489234924316,-4.0102410316467285,2.541356086730957,-5.8710527420043945,-4.223508834838867,-4.975887775421143,-3.640491247177124,1.8818398714065552,-2.7686572074890137,-8.504714012145996,1.3017992973327637,-7.148501396179199,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[-0.13024520874023438,-0.29138803482055664,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"b8d566bc-85db-47ba-b225-8517965f6d97"}
+[01:40:56.061] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:42:53.670] Server  LOG     ✓ Compiled in 1616ms
+[01:42:56.154] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[01:43:06.976] Server  LOG     ✓ Compiled in 769ms
+[01:43:14.095] Server  LOG     ✓ Compiled in 269ms
+[01:43:15.090] Browser ERROR   A component is changing an uncontrolled input to be controlled. This is likely caused by the value changing from undefined to a defined value, which should not happen. Decide between using a controlled or uncontrolled input element for the lifetime of the component. More info: https://react.dev/link/controlled-components
+[01:43:36.153] Server  LOG     ✓ Compiled in 181ms
+[01:43:50.249] Server  LOG     ✓ Compiled in 164ms
+[01:44:24.458] Server  LOG     ✓ Compiled in 232ms
+[01:44:25.153] Browser ERROR   uncaughtError: ReferenceError: Mail is not defined
+[01:44:38.127] Server  LOG     ✓ Compiled in 917ms
+[01:44:38.153] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:44:52.219] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:07.130] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/admin" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
+                            className="inter_fe8b9d92-module__LINzvG__variable outfit_ca35ecd4-module__VNkuCW__variabl..."
+-                           monica-id="ofpnmcalabcbjgholdjcjblkibolbppb"
+-                           monica-version="8.0.4"
+                          >
+                  ...
+
+[01:45:42.547] Server  LOG     ✓ Compiled in 709ms
+[01:46:23.280] Server  LOG     ✓ Compiled in 610ms
+[01:49:31.353] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[0.7540098428726196,0.09245656430721283,4.808670520782471,-6.499868392944336,0.4107687175273895,3.86065936088562,2.9233384132385254,-2.881138324737549,0.7442493438720703,1.631148099899292,-8.712202072143555,-4.46017599105835,1.6317028999328613,7.49478006362915,3.7009358406066895,-3.382107734680176,5.1320481300354,3.1494641304016113,-2.617833375930786,-3.1639444828033447,-3.2426557540893555,6.375955104827881,3.9962382316589355,6.205058574676514,-2.5869040489196777,-1.1582756042480469,-0.27789559960365295,3.843942642211914,0.019275639206171036,-6.742244720458984,2.452815294265747,-5.862879753112793,6.73575496673584,2.6967196464538574,-3.2985591888427734,2.97780179977417,4.067821979522705,0.1104373186826706,8.895187377929688,-4.816224098205566,-1.0387887954711914,-7.818790912628174,-0.8541687726974487,4.174292087554932,6.323305606842041,5.630067348480225,-1.4180835485458374,5.852636337280273,4.765471935272217,5.404388427734375,0.8287147283554077,3.0147647857666016,3.65446138381958,-3.605872631072998,-0.7481745481491089,4.216471195220947,6.445468902587891,-4.656017780303955,-5.027595043182373,-3.9864842891693115,3.4652442932128906,0.3320181667804718,-8.998794555664062,9.350354194641113,-3.068342924118042,0.26210513710975647,-3.881495714187622,-4.762476444244385,6.135690689086914,-7.220297813415527,3.210862874984741,-2.0328803062438965,0.05552639439702034,-1.792371153831482,-8.450727462768555,0.05561506375670433,3.0803840160369873,-8.93884563446045,0.412533164024353,-3.8939640522003174,-4.510931968688965,-2.7836601734161377,5.879569053649902,5.323570728302002,2.0200700759887695,6.014472961425781,3.9057857990264893,-6.475127220153809,0.8767600655555725,5.268330097198486,3.4764022827148438,-7.556701183319092,-5.208127498626709,-3.415605068206787,4.904282093048096,5.2124104499816895,-1.929641604423523,-3.5187947750091553,-0.6544972658157349,-2.759011745452881,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[0.6624279022216797,0.056470394134521484,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"2a421ff3-0d02-4bfd-8691-fc4dfe10ccd0"}
+[01:50:07.649] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:50:11.740] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/admin" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
+                            className="inter_fe8b9d92-module__LINzvG__variable outfit_ca35ecd4-module__VNkuCW__variabl..."
+-                           monica-id="ofpnmcalabcbjgholdjcjblkibolbppb"
+-                           monica-version="8.0.4"
+                          >
+                  ...
+
+[01:51:14.311] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:53:26.245] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:53:40.558] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:53:43.098] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/contact-us" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
+                            className="inter_fe8b9d92-module__LINzvG__variable outfit_ca35ecd4-module__VNkuCW__variabl..."
+-                           monica-id="ofpnmcalabcbjgholdjcjblkibolbppb"
+-                           monica-version="8.0.4"
+                          >
+                  ...
+
+[02:00:57.754] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[6.58226203918457,-2.6473255157470703,3.2772271633148193,4.95830774307251,1.506926417350769,-0.9977211356163025,-3.503096580505371,1.5103473663330078,1.4324777126312256,-3.6873793601989746,-8.303239822387695,-1.9227747917175293,-3.7677550315856934,1.2773847579956055,2.2154757976531982,5.159704208374023,0.4300346374511719,5.574914932250977,5.554861068725586,3.104736566543579,2.611603021621704,-3.851853847503662,1.7818632125854492,3.6652565002441406,0.48525792360305786,4.572903156280518,8.58017635345459,2.3106536865234375,5.251615047454834,6.356627464294434,1.9702558517456055,2.696762800216675,5.500620365142822,-7.465534687042236,3.517120122909546,2.428145408630371,1.3085025548934937,3.925708532333374,0.06368312239646912,-3.7632594108581543,-3.0774195194244385,-1.436928153038025,-2.0464415550231934,1.3917454481124878,7.753265380859375,2.3131189346313477,1.6881365776062012,-1.8858308792114258,-3.649482488632202,-0.8685582876205444,-1.772801399230957,-1.778775691986084,-2.6750810146331787,2.7217917442321777,-3.300379991531372,4.744692802429199,6.675344467163086,-1.2428784370422363,-2.214792013168335,-4.415985107421875,-8.549560546875,-1.9506902694702148,-4.049868583679199,5.996977806091309,3.349144220352173,-5.596462726593018,-5.278491497039795,-6.413651943206787,0.5464617609977722,3.2373063564300537,-6.488100528717041,4.900528907775879,1.599678635597229,-3.4263105392456055,0.7313032150268555,-3.2194643020629883,3.0946576595306396,0.7213295698165894,2.4543960094451904,7.452104568481445,5.638652324676514,7.23776388168335,3.9084768295288086,-4.901772499084473,5.387692928314209,5.012153625488281,6.533035755157471,-2.5572166442871094,2.159595251083374,-8.446070671081543,2.1570045948028564,5.646838665008545,6.176597595214844,1.6903812885284424,-1.4338856935501099,-4.962431907653809,0.6561118960380554,1.3117738962173462,-5.481568336486816,-4.929651737213135,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[-0.03410673141479492,-0.055020809173583984,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"397c9121-b5f8-4190-a99f-d159e85746de"}
+[02:05:54.832] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:05:55.439] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[2.627481698989868,-6.6326727867126465,-5.147407054901123,-1.7251213788986206,7.046462059020996,4.587564945220947,2.071460485458374,-0.5909797549247742,-1.8797407150268555,1.8421789407730103,-4.797781944274902,5.561840057373047,-4.981143474578857,3.531574249267578,-5.079897880554199,-8.850909233093262,0.0761282667517662,-3.555377244949341,-1.4201300144195557,-0.9827422499656677,-8.684187889099121,-2.7267472743988037,-2.3912131786346436,-6.6418633460998535,7.070719242095947,2.7634377479553223,5.825557231903076,5.633020877838135,-5.958378791809082,-2.3935513496398926,-4.217767715454102,-5.767368316650391,-4.761494159698486,-0.47234582901000977,-3.177267074584961,6.459104537963867,2.2236690521240234,1.689327359199524,-6.171946048736572,-7.254853248596191,-6.563974380493164,-1.1262692213058472,6.090641975402832,4.615499496459961,4.655162334442139,3.6820383071899414,4.165149211883545,-7.844351768493652,-2.2440171241760254,4.604770660400391,-4.832925796508789,-5.168811798095703,4.3404459953308105,-1.0476149320602417,-7.678288459777832,0.902127742767334,-5.3490424156188965,2.8700623512268066,1.6422609090805054,-1.5164449214935303,5.35434627532959,2.124826192855835,6.426871299743652,2.1575143337249756,-0.210667222738266,-1.3027499914169312,4.6937127113342285,-1.6660691499710083,-3.911247730255127,-7.522416591644287,-4.738763809204102,4.122589111328125,5.441530227661133,3.1097841262817383,-3.397155284881592,2.9288244247436523,5.169702529907227,-2.6624972820281982,-8.321677207946777,-5.189981460571289,-1.4980857372283936,1.303209900856018,-0.03537704423069954,4.134819507598877,-3.7021756172180176,5.8882622718811035,4.307271480560303,6.511045932769775,-6.540989875793457,-3.127772331237793,5.328469753265381,-1.2051502466201782,-7.17402982711792,4.150747776031494,2.2401959896087646,-7.967822074890137,-3.618748426437378,-3.0744922161102295,4.653738975524902,2.466822624206543,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[0.030059814453125,-0.07818317413330078,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"be739c25-c2a8-4eb0-aab7-28590bd37736"}
+[02:42:54.989] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[-4.914539813995361,-2.9924798011779785,6.070078372955322,3.859522819519043,-0.6913610100746155,-0.903980016708374,5.0915937423706055,-0.03238430246710777,5.338247776031494,2.0947022438049316,5.565457344055176,6.98380708694458,-6.034412860870361,-3.02602481842041,7.245900630950928,4.138648509979248,3.515395402908325,-0.2841099500656128,2.9527907371520996,-4.341768741607666,7.809071063995361,1.0552561283111572,8.46369743347168,4.697384834289551,1.7863346338272095,0.7324045300483704,-7.272225856781006,3.6816823482513428,-2.9584128856658936,1.441864013671875,8.998922348022461,1.9329745769500732,-2.9765491485595703,3.050045967102051,6.711206436157227,2.6689367294311523,6.142698764801025,-4.466310977935791,-6.238278865814209,-8.06767463684082,-0.5335584878921509,3.265150785446167,3.7035627365112305,-8.491827964782715,0.9813070893287659,-7.7283501625061035,-5.979329586029053,-1.355799913406372,2.540024757385254,-2.9974188804626465,-0.20712092518806458,-2.17033314704895,-2.7843105792999268,-7.8604416847229,2.330854654312134,1.8134450912475586,0.40666788816452026,-1.3101145029067993,-3.221463441848755,-2.5750627517700195,-0.36259427666664124,-5.3463568687438965,6.3754472732543945,-4.989674091339111,2.2880961894989014,2.344787359237671,-1.3929758071899414,-2.549403429031372,-3.4180471897125244,5.497479438781738,-3.65376877784729,1.37348210811615,3.446958065032959,3.8611831665039062,-0.08021464943885803,-3.0993592739105225,-6.319237232208252,1.9769333600997925,-2.5973715782165527,-4.543336868286133,3.6940081119537354,-4.587442874908447,2.0178165435791016,-4.106937408447266,6.171431064605713,3.6338841915130615,-1.538205623626709,-3.0010435581207275,4.54412317276001,-3.807346820831299,5.345991611480713,-5.281302452087402,5.160261631011963,-4.846841812133789,3.94079327583313,-2.8776731491088867,-5.85394287109375,-1.8642739057540894,-7.39473295211792,-1.9132602214813232,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[-0.30640172958374023,0.12703371047973633,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"66aad9cc-30d0-4ac0-829f-79724d8058e9"}
+[02:42:55.318] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[02:42:58.011] Browser WARN    Invalid scope
+[02:42:58.012] Browser WARN    GSAP target .service-card not found. https://gsap.com
+[02:42:58.012] Browser WARN    Invalid scope
+[02:42:58.012] Browser WARN    GSAP target  not found. https://gsap.com
+[02:42:58.012] Browser WARN    Invalid scope
+[02:42:58.012] Browser WARN    Invalid scope
+[02:42:58.012] Browser WARN    Invalid scope
+[02:42:58.012] Browser WARN    Invalid scope
+[02:42:58.012] Browser WARN    Invalid scope
+[02:42:58.012] Browser WARN    GSAP target .service-card not found. https://gsap.com
+[02:42:58.012] Browser WARN    Invalid scope
+[02:42:58.012] Browser WARN    GSAP target  not found. https://gsap.com
+[02:42:58.012] Browser WARN    Invalid scope
+[02:42:58.012] Browser WARN    Invalid scope
+[02:42:58.012] Browser WARN    Invalid scope
+[02:42:58.012] Browser WARN    Invalid scope
+[02:42:58.012] Browser ERROR   Failed to fetch /api/stats: {}
+[02:42:58.012] Browser ERROR   Failed to fetch /api/services: {}
+[02:42:58.012] Browser ERROR   Failed to fetch /api/stats: {}
+[02:42:58.012] Browser ERROR   Failed to fetch /api/services: {}
+[02:42:58.012] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[02:42:58.012] Browser WARN    Image with src "/portfolio-interface.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:42:58.012] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[02:42:58.012] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[02:42:58.012] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[02:42:58.012] Browser WARN    Image with src "/portfolio-blockchain.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:42:58.427] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[02:43:01.137] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:43:01.695] Browser WARN    Invalid scope
+[02:43:01.695] Browser WARN    GSAP target .service-card not found. https://gsap.com
+[02:43:01.695] Browser WARN    Invalid scope
+[02:43:01.695] Browser WARN    GSAP target  not found. https://gsap.com
+[02:43:01.695] Browser WARN    Invalid scope
+[02:43:01.695] Browser WARN    Invalid scope
+[02:43:01.695] Browser WARN    Invalid scope
+[02:43:01.695] Browser WARN    Invalid scope
+[02:43:01.695] Browser WARN    Image with src "/portfolio-interface.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:43:01.695] Browser WARN    Image with src "/portfolio-blockchain.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:43:13.867] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[02:43:19.769] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:44:14.278] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:44:54.493] Browser ERROR   THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The "position" attribute is likely to have NaN values. {"data":{"attributes":{"position":{"array":[-0.779970109462738,-6.065186977386475,1.752299189567566,-2.0585501194000244,8.199139595031738,-4.902093410491943,-2.0604898929595947,6.122015953063965,4.427395820617676,3.1921896934509277,5.449071884155273,4.9058451652526855,1.9510440826416016,4.014200210571289,-3.5058443546295166,4.555665969848633,0.5058096051216125,-8.32197093963623,-2.2053415775299072,-2.6475911140441895,0.43894657492637634,-5.32435941696167,-7.164368629455566,2.0859375,7.082756519317627,-5.2040276527404785,-1.5661123991012573,-4.948850631713867,2.054074287414551,-3.2503116130828857,5.9355998039245605,-3.8758041858673096,-6.336765289306641,3.1131412982940674,-1.4991486072540283,-4.603601932525635,-6.402352809906006,5.417155742645264,2.477684736251831,-0.3604884445667267,-3.414438009262085,2.1964244842529297,-4.703670501708984,0.9840459823608398,2.3724374771118164,-3.330845832824707,4.491920471191406,-6.519233703613281,-1.9831560850143433,8.09858512878418,3.494511365890503,-3.0700137615203857,4.893190860748291,7.400873184204102,-7.456350326538086,-4.6894001960754395,0.08780897408723831,-5.013597011566162,-0.845947265625,4.548029899597168,7.9217681884765625,-5.57771635055542,-0.7497398853302002,-7.504140853881836,6.148606777191162,1.577756404876709,6.610183238983154,-2.3722782135009766,6.07366943359375,0.3895706832408905,-3.4692845344543457,3.563422203063965,-4.790704727172852,2.216865062713623,6.6944661140441895,3.21561861038208,-3.656083106994629,2.961735963821411,2.410292387008667,-5.356842041015625,-0.4981856346130371,-6.6071906089782715,0.9055936932563782,2.841538190841675,-0.0396261140704155,2.9496943950653076,-4.192046642303467,-5.353293418884277,6.26045560836792,-3.8834421634674072,1.6236122846603394,-1.0816699266433716,1.483697533607483,3.5353028774261475,-5.593226432800293,-6.591042995452881,-2.395667791366577,-3.913703203201294,-4.838011741638184,-5.623790740966797,"... 399 items not stringified"],"itemSize":3,"normalized":false,"type":"Float32Array","usage":35048}},"boundingSphere":{"center":[-0.017243385314941406,0.08930301666259766,null],"radius":null}},"metadata":{"generator":"BufferGeometry.toJSON","type":"BufferGeometry","version":4.7},"type":"BufferGeometry","uuid":"3b766067-ae34-4613-8da8-ba6a2832e373"}
+[02:44:54.931] Browser LOG     THREE.WebGLRenderer: Context Lost.

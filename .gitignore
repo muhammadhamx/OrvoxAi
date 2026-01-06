@@ -1,48 +1,35 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Minimal gitignore for production-deploy branch
+# This allows built files to be committed
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-
-# testing
-/coverage
-
-# next.js
-/.next/
-/out/
-
-# production
-/build
-
-# misc
+# OS files
 .DS_Store
-*.pem
-
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# local env files
-.env*.local
-.env
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-
-# IDE
-.vscode
-.idea
+Thumbs.db
 *.swp
 *.swo
 *~
 
-# OS
-Thumbs.db
+# IDE
+.vscode
+.idea
 
-/lib/generated/prisma
+# Environment files (we'll handle these separately)
+.env.local
+.env*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+/coverage
+
+# Allow these (normally ignored):
+# /.next/
+# /backend/dist/
+# /backend/node_modules/.prisma/
+# /backend/node_modules/@prisma/
+
+# Large node_modules except Prisma client
+# We'll add specific paths manually
+

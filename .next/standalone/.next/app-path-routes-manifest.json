@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about-us/page": "/about-us",
+  "/admin/page": "/admin",
+  "/contact-us/page": "/contact-us",
+  "/favicon.ico/route": "/favicon.ico",
+  "/key-projects/page": "/key-projects",
+  "/page": "/",
+  "/portfolio/[slug]/page": "/portfolio/[slug]",
+  "/portfolio/page": "/portfolio",
+  "/pricing/page": "/pricing",
+  "/services/page": "/services",
+  "/testimonials/page": "/testimonials"
+}
