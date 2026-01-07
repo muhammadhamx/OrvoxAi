@@ -42,23 +42,32 @@ You need to copy all backend files to the new separate directory. See the script
     └── ... (all backend files)
 ```
 
-### 4. Configure the Backend Application in xmarthost
+### 4. Configure the Backend Application in xmarthost (CloudLinux NodeJS Selector)
 
 When creating the new application, use these settings:
 
-- **Application Root**: `/home2/orvoxaic/public_html/api`
-  - ⚠️ **Important**: This is a separate directory, NOT a subdirectory of OrvoxAi
+- **Application Root**: `public_html/api`
+  - ⚠️ **CRITICAL**: Use `public_html/api` NOT `public_html/api/backend`
+  - The full path will be: `/home2/orvoxaic/public_html/api`
+  - This is a separate directory, NOT a subdirectory of OrvoxAi
   
-- **Application URL**: Choose a subdomain or path like:
-  - `api.orvoxai.com` (if you have subdomain setup)
-  - OR use a path like `/api` (if using same domain)
+- **Application URL**: `api`
+  - This will make your backend accessible at: `http://orvoxai.com/api/`
   
 - **Application Startup File**: `server.js`
-  - This will use `/api/server.js` automatically since the root is set to `api/`
+  - This file must be directly in `public_html/api/server.js`
+  - NOT in `public_html/api/backend/server.js`
 
 - **Application Mode**: `Production`
+  - This sets `NODE_ENV=production`
 
-- **Node.js Version**: `20.x` or `22.x` (match your local version)
+- **Node.js Version**: `22.x` (or `20.x` - match your local version)
+
+- **⚠️ IMPORTANT - CloudLinux Virtual Environment**:
+  - CloudLinux stores `node_modules` in a separate virtual environment
+  - The `node_modules` folder in your app root will be a **symlink**
+  - **DO NOT** upload a `node_modules` folder - let CloudLinux create the symlink
+  - After uploading files, use "Run NPM Install" button in the Node.js Selector
 
 ### 5. Environment Variables
 
@@ -78,22 +87,27 @@ If xmarthost requires build commands, you might need:
 - **Build Command**: `npm install && npm run build`
 - **Start Command**: (usually auto-detected from server.js)
 
-### 7. Install Dependencies
+### 7. Install Dependencies (CloudLinux Method)
 
-After uploading, SSH into your server and run:
+**Option 1: Using Node.js Selector (Recommended)**
+1. In the Node.js Selector, find your application
+2. Click **"Run NPM Install"** button
+3. This will install dependencies in the virtual environment and create the symlink
 
+**Option 2: Using SSH**
 ```bash
 cd /home2/orvoxaic/public_html/api
 npm install --production
 ```
 
-Or if you need to build:
-
+**If you need to rebuild:**
 ```bash
 cd /home2/orvoxaic/public_html/api
 npm install
 npm run build
 ```
+
+**⚠️ Note**: CloudLinux will automatically create a `node_modules` symlink pointing to the virtual environment. Do not manually create or upload a `node_modules` folder.
 
 ### 8. Start the Application
 
@@ -140,16 +154,30 @@ This script will:
 
 ### "Path already used" or "Path not allowed" error
 - **This is the main issue**: xmarthost doesn't allow subdirectories of existing apps
-- **Solution**: Use a completely separate directory like `/home2/orvoxaic/public_html/api` (NOT `/home2/orvoxaic/public_html/OrvoxAi/backend`)
+- **Solution**: Use a completely separate directory like `public_html/api` (NOT `public_html/api/backend`)
 - Make sure the new directory is at the same level as `OrvoxAi/`, not inside it
 
+### Backend showing "It works!" instead of API responses
+- **Check Application Root**: Must be `public_html/api` NOT `public_html/api/backend`
+- **Verify file structure**: `server.js` must be in `public_html/api/server.js` (not in a subdirectory)
+- **Check logs**: Look at Node.js application logs in CloudLinux Node.js Selector
+- **Verify dist folder**: Ensure `dist/src/main.js` exists in the application root
+
 ### Backend not starting
-- Check that `backend/dist/src/main.js` exists (backend must be built)
-- Verify `backend/server.js` is in the correct location
-- Check Node.js logs in xmarthost panel
+- Check that `dist/src/main.js` exists (backend must be built)
+- Verify `server.js` is in the correct location: `public_html/api/server.js`
+- Check Node.js logs in CloudLinux Node.js Selector
+- Verify environment variables are set (DATABASE_URL, PORT, etc.)
+- Make sure "Run NPM Install" was executed successfully
+
+### node_modules issues
+- **CloudLinux uses virtual environments**: The `node_modules` folder is a symlink
+- **Do NOT upload node_modules**: Let CloudLinux create it via "Run NPM Install"
+- If you see errors about missing modules, run "Run NPM Install" again
 
 ### Port conflicts
-- Backend uses port 3001 by default (configured in `backend/server.js`)
+- Backend uses port 3001 by default (configured in `server.js`)
 - Frontend uses port 3000 by default
 - Make sure these don't conflict with other applications
+- CloudLinux may assign ports automatically - check the application settings
 
